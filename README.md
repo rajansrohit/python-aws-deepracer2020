@@ -18,6 +18,8 @@ Evaluation 2(Theoretical):
 00:00:28.399 - 100% Status: Lap Complete 
 00:00:27.000 - 100% Status: Lap Complete
 
+Note: We found that simpler code tends to work with higher accuracy during training and evaluation (or at least for the re:Invent 2019 track)
+
 -----
 
 # images
