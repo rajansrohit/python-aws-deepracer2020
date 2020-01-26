@@ -2,7 +2,7 @@
 
 January 25, 2020
 
-#### Best Lap Time: 15.80
+#### *Best Lap Time: 15.80
 
 Evaluation 1(Theoretical):
 00:00:27.200 - 100% Status: Lap Complete
