@@ -2,7 +2,7 @@
 
 January 25, 2020
 
-Best Lap Time: 15.80
+### Best Lap Time: 15.80
 
 Evaluation 1(Theoretical):
 00:00:27.200 - 100% Status: Lap Complete
@@ -20,11 +20,14 @@ Evaluation 2(Theoretical):
 
 # images
 
+
 #### Reward Graph
 ![reward graph](img/rewardgraph.png?raw=true "reward graph")
 
+
 #### Training Config
 ![training config](img/trainingconfig.png?raw=true "training config")
+
 
 #### Action Space
 ![action space](img/actionspace.png?raw=true "action space")
