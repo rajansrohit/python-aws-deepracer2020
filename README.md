@@ -20,10 +20,10 @@ Evaluation 2(Theoretical):
 
 # images
 ![reward graph](img/rewardgraph.png?raw=true "reward graph")
-Reward Graph
+#### Reward Graph
 
 ![training config](img/trainingconfig.png?raw=true "training config")
-Training Config
+#### Training Config
 
 ![action space](img/actionspace.png?raw=true "action space")
-Action Space
+#### Action Space
