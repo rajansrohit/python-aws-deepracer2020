@@ -19,11 +19,13 @@ Evaluation 2(Theoretical):
 00:00:27.000 - 100% Status: Lap Complete
 
 # images
-![reward graph](img/rewardgraph.png?raw=true "reward graph")
+
 #### Reward Graph
+![reward graph](img/rewardgraph.png?raw=true "reward graph")
 
-![training config](img/trainingconfig.png?raw=true "training config")
 #### Training Config
+![training config](img/trainingconfig.png?raw=true "training config")
 
-![action space](img/actionspace.png?raw=true "action space")
 #### Action Space
+![action space](img/actionspace.png?raw=true "action space")
+
