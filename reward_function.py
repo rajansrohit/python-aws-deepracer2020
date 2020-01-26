@@ -1,8 +1,4 @@
 def reward_function(params):
-    '''
-    Example of penalize steering, which helps mitigate zig-zag behaviors
-    '''
-    
     # Read input parameters
     distance_from_center = params['distance_from_center']
     track_width = params['track_width']
@@ -31,7 +27,8 @@ def reward_function(params):
     if steering > ABS_STEERING_THRESHOLD:
         reward *= 0.8
     
-    if all_wheels_on_track and (0.5*track_width - distance_from_center) >= 0.05:
+    # Give reward if agent is on track and under certain distance away from centerline
+    if all_wheels_on_track and (0.5 * track_width - distance_from_center) >= 0.05:
         reward = 1.0
 
     return float(reward)
