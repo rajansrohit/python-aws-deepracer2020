@@ -1,4 +1,5 @@
 def reward_function(params):
+    
     # Read input parameters
     distance_from_center = params['distance_from_center']
     track_width = params['track_width']
