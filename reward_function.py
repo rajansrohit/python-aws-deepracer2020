@@ -28,7 +28,7 @@ def reward_function(params):
     if steering > ABS_STEERING_THRESHOLD:
         reward *= 0.8
     
-    # Give reward if agent is on track and under certain distance away from centerline
+    # Reward if agent is on track and under certain distance away from centerline
     if all_wheels_on_track and (0.5 * track_width - distance_from_center) >= 0.05:
         reward = 1.0
 
